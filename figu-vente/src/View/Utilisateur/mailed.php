@@ -1,0 +1,1 @@
+<h1>Veuillez regarder vos emails</h1>
